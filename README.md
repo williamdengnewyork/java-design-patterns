@@ -1,7 +1,7 @@
 
 # Design pattern samples in Java.
 
-## Build status:
+## Build status: 123
 
 ![Build status](https://travis-ci.org/iluwatar/java-design-patterns.svg?branch=master)
 
